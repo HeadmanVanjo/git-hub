@@ -1,0 +1,6 @@
+C:\Users\vahts\Documents\SharpDevelop Projects\C# dev\C# dev\obj\Debug\C# dev.csprojResolveAssemblyReference.cache
+C:\Users\vahts\Documents\SharpDevelop Projects\C# dev\C# dev\bin\Debug\C# dev.exe.config
+C:\Users\vahts\Documents\SharpDevelop Projects\C# dev\C# dev\bin\Debug\C# dev.exe
+C:\Users\vahts\Documents\SharpDevelop Projects\C# dev\C# dev\bin\Debug\C# dev.pdb
+C:\Users\vahts\Documents\SharpDevelop Projects\C# dev\C# dev\obj\Debug\C# dev.exe
+C:\Users\vahts\Documents\SharpDevelop Projects\C# dev\C# dev\obj\Debug\C# dev.pdb
